@@ -1,4 +1,9 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
+
+<p align="center">
+  <a href="https://huwenzhe.com">Blog</a> •
+  <a href="https://github.com/dearzoe">GitHub</a>
+</p>
 
 <!--
 **dearzoe/dearzoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=dearzoe&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_title=true" />
+</p>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearzoe&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_title=true" />
+</p>
